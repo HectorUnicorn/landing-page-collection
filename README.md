@@ -50,6 +50,47 @@
 
 ## Landing Page Sections
 
+### 1. Header
 
 
-## Landing Page 
+
+
+
+### 2. Menu/Headline
+
+
+
+
+
+### 3. Footer
+
+
+
+### 4. Features
+
+
+
+### 5. UVP Section(Unique Value Proposition)
+
+
+
+### 6. Social Proof
+
+
+
+### 7. Pricing
+
+
+
+### 8. Sell Outcomes
+
+
+
+## Landing Page Examples
+
+
+
+
+
+## Landing Page Builders
+
