@@ -12,7 +12,7 @@
 
 `NextJS`, `tailwindcss`, `React`, `TypeScript`
 
-<img src="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template/raw/master/public/assets/images/nextjs-landing-page-screenshot.png?raw=true" style="width: 200px" />
+<img src="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template/raw/master/public/assets/images/nextjs-landing-page-screenshot.png?raw=true" style="width: 400px" />
 
 
 
