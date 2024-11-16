@@ -35,7 +35,7 @@
 | **[nike_landing_page](https://github.com/adrianhajdin/nike_landing_page)** | Nike Like Landing Page |
 | `tailwind` `react` `js` | Sports Product, Official Site, Business, E-Commerce |
 | | ![nike1](./img/nike1.png)<br />![nike1](./img/nike2.png)<br />![nike1](./img/nike3.png)<br />![nike1](./img/nike4.png) |
-| [astro-landing-page](https://github.com/mhyfritz/astro-landing-page)](https://github.com/ant-design/ant-design-landing) | An Astro + Tailwind CSS example/template for landing pages. |
+| [astro-landing-page](https://github.com/mhyfritz/astro-landing-page) | An Astro + Tailwind CSS example/template for landing pages. |
 | `Astro` `tailwind` | General Usage, Service, Saas, Tech, Sports, Tickes |
 | | [![Screenshots of Astro Landing Page](https://github.com/mhyfritz/astro-landing-page/raw/main/screenshots.jpg)](https://github.com/mhyfritz/astro-landing-page/blob/main/screenshots.jpg) |
 | [Nuxt-UI-Landing](https://github.com/nuxt-ui-pro/landing) |  |
