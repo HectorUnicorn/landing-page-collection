@@ -88,7 +88,27 @@
 
 ## Landing Page Examples
 
+### 0. AI Product
 
+
+
+### 1. Category:  Apps
+
+
+
+### 2. Category: Saas Services
+
+
+
+### 3. E-Commerce/Online Shop
+
+
+
+### 4. Business Offical Site
+
+
+
+### 5. Electric Product
 
 
 
