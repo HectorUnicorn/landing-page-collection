@@ -2,7 +2,7 @@
 
 ## How to build a great landing page
 
-> [Here is how I made a landing page that converted over $14,680,000 in sales while I was asleep:](https://www.linkedin.com/posts/mattgray1_a-landing-page-is-a-salesperson-who-never-activity-7193947583080267776-m8ye)
+> [how I made a landing page that converted over $14,680,000 in sales while I was asleep:](https://www.linkedin.com/posts/mattgray1_a-landing-page-is-a-salesperson-who-never-activity-7193947583080267776-m8ye)
 >
 > From Matt Gray 
 >
@@ -19,19 +19,22 @@
 > 7. Embrace Simplicity in Your Design
 > 8. Treat Your Landing Page as a Living, Breathing Entity
 >
-> 
+> Optimization is an ongoing process, not a one-time event.
 
-## Landing Page Demos By Category & Language
+## Landing Page Template By Category & Language
 
 
-| Name |Category|
+| Project |Category|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) |                                                              |
-| `NextJS` `tailwindcss` `React` `TypeScript`                  | For Official Site, App, Business Landing Page          |
+| **[Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)** |                                                              |
+| `NextJS` `tailwindcss` `React` `TypeScript`                  | Official Site, App, Business Landing Page          |
 |                                                              | <img src="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template/raw/master/public/assets/images/nextjs-landing-page-screenshot.png?raw=true" style="width: 400px" /> |
-|                                                              |                                                              |
-
-## 
+| **[shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page)** |                                                              |
+| `ShadcnUI` `React` `TypeScript` `Tailwind` | General Usage, Official Site, App, Product, SaaS, Membership, Tech, Sports |
+| | <img src="https://private-user-images.githubusercontent.com/61714687/302015347-3ba7b51f-9589-4541-800a-5ab7cecad1b5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3MjcyODEsIm5iZiI6MTczMTcyNjk4MSwicGF0aCI6Ii82MTcxNDY4Ny8zMDIwMTUzNDctM2JhN2I1MWYtOTU4OS00NTQxLTgwMGEtNWFiN2NlY2FkMWI1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE2VDAzMTYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0MTY5NTQ1YmUyZWRjNzk4NzE4ZmJkODk5NWU5MzIwZGU3NDQzYTMyOTgwZDhmYTY2ZWEyYmM2YWQ2OGQxMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.10nWUdELvaN_WFPF2iIkICvr5NcbGUIIMGEMBbsIRJE" style="width: 400px" /> |
+| | |
+| | |
+| | |
 
 
 
