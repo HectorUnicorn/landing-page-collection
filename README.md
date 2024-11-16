@@ -26,8 +26,8 @@
 
 | Name |Category|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. [Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) |                                                              |
-| `NextJS` `tailwindcss` `React` `TypeScript`                  | Cate: For Official Site, App, Business Landing Page          |
+| [Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) |                                                              |
+| `NextJS` `tailwindcss` `React` `TypeScript`                  | For Official Site, App, Business Landing Page          |
 |                                                              | <img src="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template/raw/master/public/assets/images/nextjs-landing-page-screenshot.png?raw=true" style="width: 400px" /> |
 |                                                              |                                                              |
 
