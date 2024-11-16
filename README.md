@@ -1,6 +1,6 @@
 # All About Landing Page & Templates Collection
 
-## What's important in landing page?
+## How to build a great landing page
 
 > [Here is how I made a landing page that converted over $14,680,000 in sales while I was asleep:](https://www.linkedin.com/posts/mattgray1_a-landing-page-is-a-salesperson-who-never-activity-7193947583080267776-m8ye)
 >
