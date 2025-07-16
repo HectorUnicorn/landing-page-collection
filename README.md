@@ -1,4 +1,4 @@
-# All About Landing Page & Templates Collection
+<img width="1080" height="452" alt="image" src="https://github.com/user-attachments/assets/5331735d-539f-4277-b31c-e5c4fae3dfee" /># All About Landing Page & Templates Collection
 
 ## How to build a great landing page
 
@@ -60,6 +60,12 @@
 |  | |
 
 
+
+## LandingPageTools
+[Strapi](https://strapi.io/)
+Open-source headless CMS, self-hosted or Cloud you’re in control.
+The leading open-source headless CMS, 100% JavaScript/TypeScript, flexible and fully customizable.
+<img width="1080" height="452" alt="image" src="https://github.com/user-attachments/assets/fb3cc349-3f8f-45da-ad34-b573daf9110f" />
 
 
 ## Landing Page Sections
