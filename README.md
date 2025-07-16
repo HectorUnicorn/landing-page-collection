@@ -1,6 +1,4 @@
-<img width="1080" height="452" alt="image" src="https://github.com/user-attachments/assets/5331735d-539f-4277-b31c-e5c4fae3dfee" /># All About Landing Page & Templates Collection
-
-## How to build a great landing page
+# How to build a great landing page
 
 > [how I made a landing page that converted over $14,680,000 in sales while I was asleep:](https://www.linkedin.com/posts/mattgray1_a-landing-page-is-a-salesperson-who-never-activity-7193947583080267776-m8ye)
 >
